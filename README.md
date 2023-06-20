@@ -19,6 +19,6 @@
  
 </td><td valign="top" width="40%">
 
-<a href="https://steamcommunity.com/id/NeilzxD"><img src="https://github.com/Neilblaze/CSGO/assets/48355572/36caaa8a-5431-4e93-97ae-bb50d4747673" alt="CSGO Settings 2023" width="auto"/> </a>   
+![CSCT](https://github.com/community/community/assets/48355572/2d9b84d6-6a20-4cd9-bb03-749dc5506387)
 
 </td></tr></table>
